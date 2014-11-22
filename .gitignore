@@ -60,3 +60,8 @@ target/
 
 # Private config files
 config.yml
+
+# Dev environment files
+Vagrantfile
+vagrant*
+.vagrant/
